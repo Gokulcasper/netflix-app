@@ -52,7 +52,7 @@ const Main = () => {
         </div>
 </div>
     </div>
-  )s
+  )
 }
 
 export default Main
